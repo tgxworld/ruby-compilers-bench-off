@@ -1,0 +1,7 @@
+ ,clang-3.3,clang-3.4,clang-3.5,gcc-4.6,gcc-4.7,gcc-4.8,gcc-4.9
+categories,74,72,74,74,72,72,72
+categories_admin,86,84,86,86,84,84,84
+home,52,50,51,52,50,50,50
+home_admin,74,72,73,74,71,72,71
+topic,14,14,14,15,14,14,14
+topic_admin,32,32,32,33,32,32,32
